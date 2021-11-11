@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\bin\Debug\evaluacion4.exe.config
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\bin\Debug\evaluacion4.exe
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\bin\Debug\evaluacion4.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.Form1.resources
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.exe
+C:\Users\Usuario\Documents\PROGRAMACION\evaluacion4\evaluacion4\obj\Debug\evaluacion4.pdb
